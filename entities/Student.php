@@ -1,5 +1,6 @@
 <?php
 
+require "entities/User.php";
 class Student extends User
 {
     public $id;
